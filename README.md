@@ -1,9 +1,9 @@
-## Hi, I'm Shivraj 👋
+# Hi, I'm Shivraj 👋
 
 ## About Me
 Aspiring Data Analyst with 1 year internship experience in data analytics.
 
-Skilled in:
+### Skills
 - MS Excel
 - SQL
 - Python
@@ -17,51 +17,50 @@ Currently looking for Data Analyst / Business Analyst roles.
 
 # Projects
 
-## 1. Sales Dashboard Analysis
+## Sales Dashboard Analysis
 Tools Used:
 - Power BI
 - Excel
 
-Key Highlights:
-- Created interactive dashboard
-- Analyzed sales trends
-- Identified top-performing products
+Highlights:
+- Built interactive sales dashboard
+- Analyzed KPIs and trends
+- Created business insights
 
 ---
 
-## 2. SQL Customer Analysis
+## SQL Customer Analysis
 Tools Used:
 - SQL
 
-Key Highlights:
-- Used joins and CTEs
-- Customer behavior analysis
-- Revenue insights
+Highlights:
+- Used joins, CTEs, aggregate functions
+- Analyzed customer behavior
+- Revenue insights generation
 
 ---
 
-## 3. Python Data Cleaning Project
+## Python Data Cleaning Project
 Tools Used:
 - Python
 - Pandas
 
-Key Highlights:
+Highlights:
 - Cleaned raw datasets
 - Handled missing values
-- Performed exploratory data analysis
+- Performed EDA
 
 ---
 
 # Internship Experience
 
 ## Data Analytics Intern
-- Worked on dashboards and reports
-- Performed data cleaning
-- Generated business insights
+- Worked on reports and dashboards
+- Data cleaning and visualization
+- Business insights generation
 
 ---
 
 # Contact
-
 - LinkedIn:
 - Email:
