@@ -62,5 +62,5 @@ Highlights:
 ---
 
 # Contact
-- LinkedIn:
-- Email:
+- LinkedIn:www.linkedin.com/in/shivraj-gore-0459873b2
+- Email:bhuryaaaaaa@gmail.com
