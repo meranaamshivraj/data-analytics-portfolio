@@ -17,10 +17,10 @@ Currently looking for Data Analyst / Business Analyst roles.
 
 # Projects
 
-## Sales Dashboard Analysis
+## Customer-Behavior-Analysis-SQL-PowerBI
 Tools Used:
-- Power BI
-- Excel
+- Sql
+- Power Bi
 
 Highlights:
 - Built interactive sales dashboard
