@@ -40,10 +40,9 @@ Highlights:
 
 ---
 
-## Python Data Cleaning Project
+## Bike Sale in India
 Tools Used:
-- Python
-- Pandas
+- Excel
 
 Highlights:
 - Cleaned raw datasets
